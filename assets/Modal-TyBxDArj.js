@@ -1,0 +1,1 @@
+import{_ as e,o as t,a,f as o,g as d}from"./index-puPaehQu.js";const c={setup(){return{}}},n={class:"modal",tabindex:"-1"},l={class:"modal-dialog modal-lg"},r={class:"modal-content"},_={class:"modal-body"};function i(s,m,p,f,u,h){return t(),a("div",n,[o("div",l,[o("div",r,[o("div",_,[d(s.$slots,"default")])])])])}const v=e(c,[["render",i]]);export{v as default};

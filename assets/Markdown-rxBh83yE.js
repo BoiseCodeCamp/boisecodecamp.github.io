@@ -1,1 +1,0 @@
-import{m as t}from"./marked.esm-KKTQJ6Gi.js";import{_ as o,c as a,o as n,a as s}from"./index-2cIl48ms.js";const c={props:{value:{type:String,default:""}},setup(e){return{parsed:a(()=>t(e.value))}}},p=["innerHTML"];function d(e,_,i,r,u,l){return n(),s("div",{innerHTML:r.parsed},null,8,p)}const k=o(c,[["render",d]]);export{k as default};

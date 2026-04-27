@@ -1,1 +1,0 @@
-import{_ as n,r as e,o as c,a as r,d as o,f as _}from"./index-zkKsOLl6.js";const p={},d={class:"bg-white"},i={class:"container pt-5 mt-5"};function m(f,l,k,h,u,v){const t=e("Navbar"),s=e("Speakers"),a=e("Foot");return c(),r("div",d,[o(t),_("section",i,[o(s)]),o(a)])}const $=n(p,[["render",m]]);export{$ as default};
